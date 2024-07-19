@@ -1,6 +1,6 @@
 ---
 title: "Leaflet"
-author: "The Johns Hopkins Data Science Lab"
+author: "Yanhang"
 always_allow_html: yes
 ---
 
